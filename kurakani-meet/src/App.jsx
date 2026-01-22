@@ -9,7 +9,6 @@ export default function App(){
       <Route path = "/" element={<Home/>}/>
       <Route path = "/room" element={<VideoCall/>}/>
     </Routes>
-
     </BrowserRouter>
   )
 }
